@@ -1,0 +1,16 @@
+p{
+    color: rgb(255, 0, 0);
+}
+.um{
+    color: blue;
+}
+.dois{
+    color: blueviolet;
+}
+.tres{
+    color: darkblue;
+}
+#titulo{
+    color: deeppink;
+    border: 2px solid purple;
+}
