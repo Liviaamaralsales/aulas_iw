@@ -1,0 +1,21 @@
+header{
+    background-color:black;
+    color: antiquewhite;
+}
+
+.banner{
+    width: 100%;
+}
+
+.container{
+    width: 80%;
+    background-color:cornflowerblue;
+    color: antiquewhite;
+    margin: auto;
+}
+
+footer{
+    background-color: blue;
+    color: antiquewhite;
+    width: 100%;
+}
